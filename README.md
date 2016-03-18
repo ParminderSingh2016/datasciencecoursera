@@ -1,2 +1,3 @@
 # datasciencecoursera
-Part of Coursera Project of Data Scientists Tools course - Week 4
+Hi, 
+This repo is a part of Coursera Project of Data Scientists Tools course.
